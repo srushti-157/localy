@@ -1,0 +1,6 @@
+{
+  "name": "LOCALY - Discover Your City",
+  "description": "Your city has more to offer. Discover amazing places, local experiences, useful services, and opportunities—all in one curated platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
